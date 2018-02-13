@@ -1,2 +1,2 @@
 # AngularJS
-Coursera Curses
+Coursera Course
